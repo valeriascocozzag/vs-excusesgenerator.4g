@@ -1,5 +1,17 @@
 @import "bootstrap/dist/css/bootstrap.min.css";
-
-body{
-    background: white;
+.enunciado {
+    color:blueviolet;
+    text-decoration: solid;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    width: 100%;
+    
+  }
+#excuse{
+    color:black;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
 }
