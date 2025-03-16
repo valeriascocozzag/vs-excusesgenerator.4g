@@ -21,4 +21,5 @@ window.onload = function() {
   let frase=getRandomArray(who) + ' ' + getRandomArray(action) + ' ' + getRandomArray(what) + ' ' + getRandomArray(when); 
   document.getElementById("excuse").innerHTML = frase;
   document.getElementById("titulo").innerHTML = "Oh no! No sabes lo que pasó....";
+  document.getElementById("imagen").innerHTML = "/img/oh.jpg";
 };

@@ -2,14 +2,18 @@
 .enunciado {
     color:blueviolet;
     text-decoration: solid;
-    position: absolute;
+    position:absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
     text-align: center;
     width: 100%;
-    
-  }
+}
+.logo-footer {
+  background-image: url("https://infovaticana.com/blogs/wp-content/uploads/sites/3/2018/07/sorpresa_793571_manual-400x300.jpg");
+  width: 400px;
+  height: 300px; 
+}
 #excuse{
     color:black;
     text-align: center;
